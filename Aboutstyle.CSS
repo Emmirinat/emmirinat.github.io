@@ -1,7 +1,7 @@
  body {background-image: url("Mybackground.jpg");}
 #banner { width: 1000px;}
 #table {width: 1000px;}
-#me 
+#me {
  width:200px;
  margin-right: 40px;
  margin-bottom: 20px; }
