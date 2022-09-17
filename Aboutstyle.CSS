@@ -1,5 +1,7 @@
  body {background-image: url("Mybackground.jpg");}
 #me {
+ width:150px
+  margin-up: 10px
  margin-right: 10px;
  margin-bottom: 10px;
 }
