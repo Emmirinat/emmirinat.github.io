@@ -1,24 +1,20 @@
  body {background-image: url("Mybackground.jpg");}
-
-#me {
+#banner { width: 1000px;}
+#table {width: 1000px;}
+#me 
  width:200px;
  margin-right: 40px;
- margin-bottom: 20px;
-}
+ margin-bottom: 20px; }
 #Emmi { 
  width:200px;
  margin-left: 40px;
- margin-bottom: 20px;
-}
+ margin-bottom: 20px; }
 #game {
  width:200px;
  margin-right: 40px;
- margin-bottom: 20px;
- 
-}
+ margin-bottom: 20px; }
 #flag {
  width:180px;
  margin-left: 40px;
- margin-bottom: 20px;
-}
+ margin-bottom: 20px; }
 
