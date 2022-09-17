@@ -1,8 +1,16 @@
  body {background-image: url("Mybackground.jpg");}
 #me {
-
+ margin-right: 10px;
+ margin-bottom: 10px;
 }
 #Emmi { 
- 
+ margin-right: 10px;
+ margin-bottom: 10px;
+}
+#game { margin-right: 10px;
+ margin-bottom: 10px;
+}
+#flag {margin-right: 10px;
+ margin-bottom: 10px;
 }
 
